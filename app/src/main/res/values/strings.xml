@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppCenterPoc</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="reset_settings">Reset Authorization</string>
+
+    <string name="appcenter_url">https://appcenter.intuit.com/b7qsn5mjg2/subscribe</string>
+    <!--
+    <string name="appcenter_url">https://appcenter.intuit.com/b7qufrw9c9/subscribe</string>
+    -->
+    <string name="authorization_message">This application would like to connect to your QBO Data.</string>
+
+</resources>
